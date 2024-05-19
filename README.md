@@ -2,6 +2,8 @@
 
 This README provides a comprehensive guide for the research paper titled "Efficient Evaluation of Long-Form Text Claims through Modular Retrieval and Entailment." The paper explores an efficient approach for verifying claims in extensive text corpora, focusing on the use of retrieval and entailment models to reduce computational costs while maintaining high accuracy.
 
+[Paper Link] -> https://jjunhu.github.io/Efficient-Validation-of-Long-Form-Text-Claims-through-Modular-Retrieval-and-Entailment/Efficient%20Fact%20Checking.pdf
+
 ## Table of Contents
 
 1. [Introduction](#introduction)
