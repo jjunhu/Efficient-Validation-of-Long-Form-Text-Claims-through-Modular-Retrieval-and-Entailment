@@ -5,7 +5,7 @@ from collections import Counter
 
 QUERY = "depth_3_summary"
 DOCUMENT = "book_text"
-FILE_PATH = 'data/extracted_data.csv'
+FILE_PATH = 'data scraping/extracted_data.csv'
 
 
 l2_QUERY = "depth_2_summary"
@@ -28,7 +28,7 @@ def get_evaluation_set_6():
 
 def get_evaluation_set():
     data = pd.read_csv(FILE_PATH)
-    return data[:4000]
+    return data
 
 # TODO: change data size for evaluation
 
